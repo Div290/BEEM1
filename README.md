@@ -4,7 +4,7 @@ This repository is the official implementation of the work E3: Expert-Enhanced E
 
 ## Requirements
 
-We built upon our code using the [huggingface transformers](https://huggingface.co/docs/transformers/en/index). To use our code install it.
+We built upon our code using the [huggingface transformers](https://huggingface.co/docs/transformers/en/index). To use our code install it. 2.5.1
 
 ## Training 
 
