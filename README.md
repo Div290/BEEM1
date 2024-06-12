@@ -1,6 +1,6 @@
-# E3: Expert-Enhanced Early Exit Strategies in BERT
+# BEEM: Boosting Performance of Early Exit DNNs using Multiple Exit Classifiers as Experts
 
-This repository is the official implementation of the work E3: Expert-Enhanced Early Exit Strategies in BERT.
+This repository is the official implementation of the work BEEM: Boosting Performance of Early Exit DNNs using Multiple Exit Classifiers as Experts
 
 ## Requirements
 
