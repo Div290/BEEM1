@@ -11,7 +11,7 @@ We built upon our code using the [huggingface transformers](https://huggingface.
 To fine-tune a pre-trained language model on and train the internal classifiers follow the command:
 
 ```setup
-bash finetune_(al)bert.sh
+bash (al)bert_finetuning.sh
 ```
 
 ## Inference
