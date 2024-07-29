@@ -4,7 +4,7 @@ This repository is the official implementation of the work BEEM: Boosting Perfor
 
 ## Requirements
 
-We built upon our code using the [huggingface transformers](https://huggingface.co/docs/transformers/en/index). To use our code install it. 2.5.1, torch 1.4.0
+We built upon our code using the [huggingface transformers](https://huggingface.co/docs/transformers/en/index). To use our code install it. Transformers == 2.5.1, torch == 1.4.0.
 
 ## Training 
 
