@@ -4,7 +4,7 @@ MODEL_TYPE=albert  # bert or albert
 MODEL_SIZE=large
 
 
-python3 ./run_glue.py \
+python3 ./run_train.py \
   --model_type $MODEL_TYPE \
   --model_name_or_path ${MODEL_TYPE}-${MODEL_SIZE}-v2 \
   --task_name $TASK_NAME \
