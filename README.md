@@ -76,4 +76,4 @@ This work builds upon the Hugging Face Transformers library. Special thanks to t
 
 📌 Star ⭐ this repo if you find it useful!
 
-<p align="center"> <b>🚀 Let's make DNN inference faster and smarter together!</b> </p> ```
+<p align="center"> <b>🚀 Let's make DNN inference faster and smarter together!</b> </p> 
